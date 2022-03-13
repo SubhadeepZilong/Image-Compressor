@@ -12,7 +12,7 @@ Image Compressor Python Script
 - Run the python file "main.py"
 - Select Image to be compressed
 - Select Save location and file name
-
+- it works with any jpg or jpeg images, other image formats are untested
 ```
 
 ##
